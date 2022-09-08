@@ -7,3 +7,5 @@ Testing Commit again
 I am testing my git skills
 
 testing partial stash skill
+
+Working from VScode
