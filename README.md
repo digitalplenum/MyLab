@@ -5,3 +5,5 @@ For build use : mvn clean package
 Testing Commit again
 
 I am testing my git skills
+
+testing partial stash skill
