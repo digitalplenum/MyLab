@@ -2,6 +2,6 @@ This example uses a simple maven based webapp project.
 
 For build use : mvn clean package
 
-Testing Commit
+Testing Commit again
 
 I am testing my git skills
